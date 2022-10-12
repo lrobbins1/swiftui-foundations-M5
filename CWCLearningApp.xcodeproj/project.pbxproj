@@ -23,6 +23,7 @@
 		34D355D328E9F447003679B1 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D355D228E9F447003679B1 /* Constants.swift */; };
 		34D355F128F230C0003679B1 /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D355F028F230C0003679B1 /* CodeTextView.swift */; };
 		34F1F69E28F49FE200FF5BEE /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F1F69D28F49FE200FF5BEE /* RectangleCard.swift */; };
+		34F1F6A028F6366400FF5BEE /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F1F69F28F6366400FF5BEE /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		34D355D228E9F447003679B1 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		34D355F028F230C0003679B1 /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
 		34F1F69D28F49FE200FF5BEE /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
+		34F1F69F28F6366400FF5BEE /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				348CEB3828E3DE1D004F82A1 /* ContentView.swift */,
 				348CEB3A28E3EA15004F82A1 /* ContentViewRow.swift */,
 				34D355CD28E9EAC5003679B1 /* ContentDetailView.swift */,
+				34F1F69F28F6366400FF5BEE /* TestView.swift */,
 				34D355F028F230C0003679B1 /* CodeTextView.swift */,
 				34F1F69D28F49FE200FF5BEE /* RectangleCard.swift */,
 			);
@@ -224,6 +227,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34F1F6A028F6366400FF5BEE /* TestView.swift in Sources */,
 				348CEAFA28D28E67004F82A1 /* HomeView.swift in Sources */,
 				348CEB3728E005E7004F82A1 /* HomeViewRow.swift in Sources */,
 				348CEB3928E3DE1D004F82A1 /* ContentView.swift in Sources */,
