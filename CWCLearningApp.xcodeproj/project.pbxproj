@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		343851CC29019FFD00698026 /* TestResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343851CB29019FFD00698026 /* TestResultView.swift */; };
 		348CEAF828D28E67004F82A1 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348CEAF728D28E67004F82A1 /* LearningApp.swift */; };
 		348CEAFA28D28E67004F82A1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348CEAF928D28E67004F82A1 /* HomeView.swift */; };
 		348CEAFC28D28E6B004F82A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 348CEAFB28D28E6B004F82A1 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		343851CB29019FFD00698026 /* TestResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultView.swift; sourceTree = "<group>"; };
 		348CEAF428D28E67004F82A1 /* CWCLearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CWCLearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		348CEAF728D28E67004F82A1 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		348CEAF928D28E67004F82A1 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				348CEB3A28E3EA15004F82A1 /* ContentViewRow.swift */,
 				34D355CD28E9EAC5003679B1 /* ContentDetailView.swift */,
 				34F1F69F28F6366400FF5BEE /* TestView.swift */,
+				343851CB29019FFD00698026 /* TestResultView.swift */,
 				34D355F028F230C0003679B1 /* CodeTextView.swift */,
 				34F1F69D28F49FE200FF5BEE /* RectangleCard.swift */,
 			);
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34F1F6A028F6366400FF5BEE /* TestView.swift in Sources */,
+				343851CC29019FFD00698026 /* TestResultView.swift in Sources */,
 				348CEAFA28D28E67004F82A1 /* HomeView.swift in Sources */,
 				348CEB3728E005E7004F82A1 /* HomeViewRow.swift in Sources */,
 				348CEB3928E3DE1D004F82A1 /* ContentView.swift in Sources */,
